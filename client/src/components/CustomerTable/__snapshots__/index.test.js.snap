@@ -1,0 +1,175 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Dashboard If existing user and plan status is active generate snapshot for modify plan 1`] = `
+<table
+  className="table table-striped table-bordered table-hover"
+>
+  <thead>
+    <tr>
+      <th>
+        Id
+      </th>
+      <th>
+        Customer Name
+      </th>
+      <th>
+        Email
+      </th>
+      <th>
+        Registration Date
+      </th>
+      <th>
+        Assigned number
+      </th>
+      <th>
+        Plan Details
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        cb3e
+      </td>
+      <td>
+        irfangg
+      </td>
+      <td>
+        irfan@gmail.com
+      </td>
+      <td>
+        1732110946770
+      </td>
+      <td>
+        122
+      </td>
+      <td>
+        <button
+          className="btn btn-primary btn-sm"
+          disabled={false}
+          onClick={[Function]}
+          type="button"
+        >
+          Modify plan
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`Test Dashboard If existing user and plan status is not active generate snapshot for renew plan 1`] = `
+<table
+  className="table table-striped table-bordered table-hover"
+>
+  <thead>
+    <tr>
+      <th>
+        Id
+      </th>
+      <th>
+        Customer Name
+      </th>
+      <th>
+        Email
+      </th>
+      <th>
+        Registration Date
+      </th>
+      <th>
+        Assigned number
+      </th>
+      <th>
+        Plan Details
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        cb3e
+      </td>
+      <td>
+        irfangg
+      </td>
+      <td>
+        irfan@gmail.com
+      </td>
+      <td>
+        1732110946770
+      </td>
+      <td>
+        122
+      </td>
+      <td>
+        <button
+          className="btn btn-primary btn-sm"
+          disabled={false}
+          onClick={[Function]}
+          type="button"
+        >
+          Renew plan
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`Test Dashboard If new user generate snap shot to choose plan 1`] = `
+<table
+  className="table table-striped table-bordered table-hover"
+>
+  <thead>
+    <tr>
+      <th>
+        Id
+      </th>
+      <th>
+        Customer Name
+      </th>
+      <th>
+        Email
+      </th>
+      <th>
+        Registration Date
+      </th>
+      <th>
+        Assigned number
+      </th>
+      <th>
+        Plan Details
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        cb3e
+      </td>
+      <td>
+        irfangg
+      </td>
+      <td>
+        irfan@gmail.com
+      </td>
+      <td>
+        1732110946770
+      </td>
+      <td>
+        122
+      </td>
+      <td>
+        <button
+          className="btn btn-primary btn-sm"
+          disabled={false}
+          onClick={[Function]}
+          type="button"
+        >
+          Choose plan
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

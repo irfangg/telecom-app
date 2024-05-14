@@ -1,0 +1,186 @@
+{
+  "availablePlans": [
+    {
+      "planName": "Platinum",
+      "planCost": 499,
+      "validity": 365,
+      "activeStatus": false,
+      "id": "2108"
+    },
+    {
+      "planName": "Gold",
+      "planCost": 299,
+      "validity": 180,
+      "activeStatus": false,
+      "id": "aadb"
+    },
+    {
+      "planName": "Silver",
+      "planCost": 199,
+      "validity": 90,
+      "activeStatus": false,
+      "id": "0690"
+    }
+  ],
+  "customers": [
+    {
+      "name": "irfangg",
+      "dob": "2024-05-12",
+      "email": "irfan@gmail.com",
+      "adharNumber": "213",
+      "registrationDate": 1715699572900,
+      "assignedMobileNumber": "122",
+      "plan": {
+        "planName": "Platinum",
+        "planCost": 499,
+        "validity": 365,
+        "planStatus": true
+      },
+      "id": "cb3e"
+    },
+    {
+      "id": "426a",
+      "email": "gg@gmail.com",
+      "name": "test",
+      "dob": "2024-05-17",
+      "adharNumber": "1234567890",
+      "registrationDate": 1715714571886,
+      "assignedMobileNumber": "1234567889",
+      "plan": {
+        "planName": "Gold",
+        "planCost": 299,
+        "validity": 180,
+        "planStatus": true
+      }
+    },
+    {
+      "id": "1c08",
+      "email": "user1@gmail.com",
+      "name": "user1",
+      "dob": "2024-05-14",
+      "adharNumber": "123456789012",
+      "registrationDate": 1715699586868,
+      "assignedMobileNumber": "1234567890",
+      "plan": {
+        "planName": "Silver",
+        "planCost": 199,
+        "validity": 90,
+        "planStatus": true
+      }
+    },
+    {
+      "id": "557b",
+      "email": "efr@fsdf.com",
+      "name": "sf",
+      "dob": "2024-05-17",
+      "adharNumber": "123456789012",
+      "registrationDate": 1715699841745,
+      "assignedMobileNumber": "12",
+      "plan": null
+    },
+    {
+      "id": "324e",
+      "email": "swdfj@fdslknh.com",
+      "name": "irfan",
+      "dob": "2024-05-16",
+      "adharNumber": "123456789012",
+      "registrationDate": 1715700081464,
+      "assignedMobileNumber": "1234567890",
+      "plan": null
+    },
+    {
+      "id": "ab9f",
+      "email": "1@ef.com",
+      "name": "irfan",
+      "dob": "2024-05-14",
+      "adharNumber": "123456789012",
+      "registrationDate": 1715714180845,
+      "assignedMobileNumber": "1234567890",
+      "plan": {
+        "planName": "Gold",
+        "planCost": 299,
+        "validity": 180,
+        "planStatus": true
+      }
+    },
+    {
+      "id": "6d33",
+      "email": "dfh@dfkjl",
+      "name": "sdf",
+      "dob": "2024-05-14",
+      "adharNumber": "123456789012",
+      "registrationDate": 1715708965261,
+      "assignedMobileNumber": "1234",
+      "plan": null
+    },
+    {
+      "id": "4a1b",
+      "email": "efkjh@vfdskh",
+      "name": "wekfjh",
+      "dob": "2024-05-14",
+      "adharNumber": "123254352341",
+      "registrationDate": 1715709378021,
+      "assignedMobileNumber": "213",
+      "plan": null
+    },
+    {
+      "id": "4335",
+      "email": "erjh@reetk.com",
+      "name": "we",
+      "dob": "2024-05-10",
+      "adharNumber": "12",
+      "registrationDate": 1715711128050,
+      "assignedMobileNumber": "1323455467",
+      "plan": null
+    },
+    {
+      "id": "e4c4",
+      "email": "sdgf@ergj.com",
+      "name": "wet",
+      "dob": "2024-05-07",
+      "adharNumber": "231344256566",
+      "registrationDate": 1715711168066,
+      "assignedMobileNumber": "1223546657",
+      "plan": null
+    },
+    {
+      "id": "45f8",
+      "email": "rfgj@fdkgh.com",
+      "name": "weekj",
+      "dob": "2024-05-01",
+      "adharNumber": "123785476485",
+      "registrationDate": 1715713577061,
+      "assignedMobileNumber": "1265423897",
+      "plan": null
+    },
+    {
+      "id": "0760",
+      "email": "hger@FDKJHGF.COM",
+      "name": "frg",
+      "dob": "2024-05-09",
+      "adharNumber": "325643276512",
+      "registrationDate": 1715713679091,
+      "assignedMobileNumber": "1233245456",
+      "plan": null
+    },
+    {
+      "id": "d89e",
+      "email": "hger@rFDKJHGF.COM",
+      "name": "frg",
+      "dob": "2024-05-09",
+      "adharNumber": "325643276512",
+      "registrationDate": 1715713851711,
+      "assignedMobileNumber": "1233245456",
+      "plan": null
+    }
+  ],
+  "users": [
+    {
+      "id": "bb3d",
+      "email": "irfangg@gmail.com",
+      "password": "$2a$10$Y4SkuSExMGRAcorHG4uEr.HGCD8C0fhpEV83zkzHckRhwbjWBlmhG",
+      "name": "irfan",
+      "registrationDate": "2024-05-11T04:54:09.444Z"
+    }
+  ]
+}
