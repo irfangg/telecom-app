@@ -57,13 +57,14 @@ npm run dbup     # configured to run on port 3001 - to use json-server db, modif
 
 
 ### 7. Screenshots for reference
-![userregistration](https://github.com/irfangg/telecom-app/assets/9660341/66e237ea-412e-493e-8c82-b627394bed30)
-![user login to dashboard](https://github.com/irfangg/telecom-app/assets/9660341/00806a73-447f-4476-b5b7-da73680a15ff)
-![renewplan](https://github.com/irfangg/telecom-app/assets/9660341/4ccc7a7b-6537-470c-bb70-5a3e78cc5715)
-![modifyplan](https://github.com/irfangg/telecom-app/assets/9660341/b24f8f73-b060-4f2d-88c7-8a5ac79045e5)
-![Dashboard](https://github.com/irfangg/telecom-app/assets/9660341/1bd6f71e-1e80-4400-98b8-3c1a0bc4945f)
-![chooseplan](https://github.com/irfangg/telecom-app/assets/9660341/7d9d4476-fb43-416f-8dd9-af51fded37ae)
-![Adding new customer](https://github.com/irfangg/telecom-app/assets/9660341/fccdca9d-542b-49f9-af1b-a87eebf3c12b)
+![dashboard-table](https://github.com/irfangg/telecom-app/assets/9660341/59298fdf-6369-41ff-964c-aadaf57b2b1d)
+![create-new-account](https://github.com/irfangg/telecom-app/assets/9660341/54dc3581-8b1e-4760-ba80-daf343b33007)
+![choose-new-plan](https://github.com/irfangg/telecom-app/assets/9660341/a9835e75-a4dd-4f5f-bff7-d21d0fb3201c)
+![renew-plan](https://github.com/irfangg/telecom-app/assets/9660341/44e8eeef-6fd7-484b-a80d-cc24c95c2f09)
+![register-new-customer-screen](https://github.com/irfangg/telecom-app/assets/9660341/d7f435fe-77ee-4a8f-a432-19906ac08ebd)
+![plans-based-on-existing-or-new-customer](https://github.com/irfangg/telecom-app/assets/9660341/d7c06e55-0dfc-4adc-8763-9f9123322d42)
+![modify-existing-plan](https://github.com/irfangg/telecom-app/assets/9660341/87a11623-3f8f-4849-be97-0c7e5cb455d6)
+![login-screen](https://github.com/irfangg/telecom-app/assets/9660341/1644ce7b-e079-4332-abd7-50e6d59bfc0a)
 
 
 
